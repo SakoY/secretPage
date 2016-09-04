@@ -1,0 +1,42 @@
+html {
+    background: url(images/bg.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+body {
+    margin: 0;
+}
+.container {
+    text-align: center;
+    width: 350px;
+}
+#logout {
+    padding-top: 20px;
+}
+#indexContainer {
+    margin-top: 105px;
+}
+body {
+    background: none;
+}
+h1 {
+    color: black;
+}
+#logInbox {
+    display: none;
+}
+#title {
+    background-color: #D4CECB;
+    border-radius: 25px;
+}
+#signUpbox, #logInbox {
+    background-color: #D4CECB;
+    padding: 10px;
+    border-radius: 25px;
+}
+#texta {
+    margin-top: 10px;
+    height: 80vh;
+}
