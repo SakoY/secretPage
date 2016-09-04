@@ -15,3 +15,5 @@ if (array_key_exists('content', $_POST)) {
 
     mysqli_query($link, $query);
 }
+
+?>
